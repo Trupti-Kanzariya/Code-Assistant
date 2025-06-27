@@ -1,0 +1,34 @@
+/* Example CSS for public-code-snippets plugin */
+.public-code-snippet {
+    background: #f4f4f4;
+    border-left: 4px solid #0073aa;
+    padding: 10px;
+    margin: 15px 0;
+    font-family: monospace;
+}
+
+/* Public Code Snippets Plugin Styles */
+.pcs-dark-mode {
+    background: #181a1b !important;
+    color: #e8eaed !important;
+}
+.pcs-dark-mode .pcs-snippet-box {
+    background: #23272b !important;
+    border-color: #444 !important;
+}
+.pcs-dark-mode textarea {
+    background: #23272b !important;
+    color: #e8eaed !important;
+    border-color: #444 !important;
+}
+.pcs-dark-mode .button {
+    background: #333 !important;
+    color: #e8eaed !important;
+    border-color: #444 !important;
+}
+.pcs-snippet-box {
+    margin-bottom: 2em;
+    padding: 1em;
+    border: 1px solid #ddd;
+    background: #fafbfc;
+}
